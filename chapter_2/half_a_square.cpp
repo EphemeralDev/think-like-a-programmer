@@ -1,7 +1,6 @@
 #include <iostream>
 using std::cin;
 using std::cout;
-
 /*
 
 Write a program that uses only the following output statements:
