@@ -33,7 +33,7 @@ class studentRecord {
   // eight member functions
   // first two are constructors
   // then a pair of member functions for each data member
-  // e.g. this.grade data member has two associated member functions; grade and
+  // e.g. _grade data member has two associated member functions; grade and
   // setGrade
 public:
   studentRecord();
